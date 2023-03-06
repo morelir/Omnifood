@@ -1,4 +1,3 @@
-console.log("Hello world!");
 //Set current year
 const yearEl = document.querySelector(".year");
 const currentYear = new Date().getFullYear();
@@ -7,7 +6,6 @@ yearEl.textContent = currentYear;
 //Make mobile navigation work
 const btnNav = document.querySelector(".btn-mobile-nav");
 const mainHeader = document.querySelector(".main-header");
-
 btnNav.addEventListener("click", () => {
   mainHeader.classList.toggle("nav-open");
 });
@@ -49,4 +47,3 @@ const observer = new IntersectionObserver(
   }
 );
 observer.observe(sectionHeroEl);
-
