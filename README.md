@@ -4,7 +4,7 @@
 <p align='center'>🎉 The app is live, try it <a href="https://omnifood-healty-diet.netlify.app/" target="_blank">here</a>. </p>
 
 ## ***About***
-Omnifood is an AI-powered food subscription that will make you eat healthy again, 365 days per year. It's tailored to your personal tastes and nutritional needs.
+An AI-powered food subscription, using web design best practices.
 
 I created this project using some of the knowledge I gained in:
 - HTML5 
