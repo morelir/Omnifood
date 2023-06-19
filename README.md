@@ -4,8 +4,8 @@
 <p align='center'>🎉 The app is live, try it <a href="https://omnifood-healty-diet.netlify.app/" target="_blank">here</a>. </p>
 
 ## ***About***
-An AI-powered food subscription web app that i created as part of the  <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/" target="_blank">HTML and CSS course on Udemy by Jonas Schmedtmann</a>.
-The app uses HTML5, CSS3, JavaScript, and implementes web design best practices.
+An AI-powered food subscription web app that I created as part of the  <a href="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/" target="_blank">HTML and CSS course on Udemy by Jonas Schmedtmann</a>.
+The app uses HTML5, CSS3, JavaScript, and implements web design best practices.
 
 ## ***Screenshots***
 ![Capture](https://user-images.githubusercontent.com/58606266/223069350-844cfad0-15c5-46e9-8f18-a5a4b58c8867.PNG)
